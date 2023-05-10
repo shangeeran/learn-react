@@ -16,22 +16,9 @@ function App() {
         <h3>This is a profile of a person</h3>
       </Profile> */}
 
-      <News messagecontent="This is a message from props"/>
+      <Profile name = "Shanga" lname = "Kundu"/>
 
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hello world!
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
+      {/* <News messagecontent="This is a message from props"/> */}
 
     </div>
   );
